@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asia Rasheed</h1>
 <h3 align="center">A passionate frontend developer </h3>
 <img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiarasheed&label=Profile%20views&color=0e75b6&style=flat" alt="asiarasheed" /> </p>
 
- - 🌱 I’m currently learning **Front end Web Developer on Udemy at IEC**
+- 🌱 I’m currently learning **Frontend Web Development at IEC**
 
 - 💬 Ask me about **Frontend/ React.js/ Developer**
 
@@ -13,7 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/asiarasheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asiarasheed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/asia-rasheed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asia-rasheed/" height="30" width="40" /></a>
+<a href="https://kaggle.com/asiarasheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asiarasheed" height="30" width="40" /></a>
+<a href="https://instagram.com/jawadasim2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jawadasim2022" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/asiarasheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asiarasheed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asiarasheed&show_icons=true&locale=en" alt="asiarasheed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asiarasheed&" alt="asiarasheed" /></p>
+
